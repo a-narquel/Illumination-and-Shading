@@ -1,6 +1,3 @@
-# Illumination and Shading
-
-
 
 ## Overview
 Interactive WebGL application demonstrating Phong and Gouraud shading with multiple configurable light sources, camera controls, and a full-browser scene.
